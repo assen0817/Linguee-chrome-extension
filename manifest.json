@@ -1,0 +1,14 @@
+{
+    "name": "単語検索-Linguee",
+    "version": "1.0",
+    "background": {
+        "scripts": ["background.js"],
+        "persistent": true
+    },
+    "description": "選択した分を単語検索のLinqueeに投げる",
+    "manifest_version": 2,
+    "permissions": [
+        "contextMenus",
+        "tabs"
+    ]
+}
